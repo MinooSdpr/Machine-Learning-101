@@ -1,0 +1,25 @@
+1.Read City of Chicago Payroll Data in a dataframe pay.
+2.Show first five records in your data.
+3.Get the overview of your data.
+4.How many ‘NaN’ (missing data) you have in each column of your data? What is the % of missing data in each column?
+5.Get the statistics for your dataset. Do you see lot’s of NaN? Why?
+6.What are the maximum, minimum and average Typical Hours?
+7.Do you remember, pandas ignore NA/NaN/NULL values by default?
+8.How many employees are on salary and how many are working on hourly basis?
+9.Which department has maximum no of employees?
+10.How many employees are on Salary and how many are on Hourly in the Police department?
+11.What are the mean, max and min salaries?
+12.Create a new column name "Salaries" and separate the number from dollar sign as float .
+13.Find an employee who has the maximum salary.
+14.Find an employee who has the minimum salary.
+15.What are the mean, max and min Hourly Rate?
+16.How many employees are getting max Hourly Rate?
+17.Who is getting max Hourly Rate?
+18.How many employees are earning less than the average Hourly Rate?
+19.How many employees are paid hourly and they have full-time job?
+20.Find the full-time employees who are working at hourly rate of $10.00?
+21.How many unique Job Titles are there in the data?
+22.What was the top 10 average Salary of the employees in each department?
+23.What is the job title of 'AGAR, BULENT B'?
+24.What are the top most three common job titles?
+25.How many people have the word ‘officer’ in their job title?
